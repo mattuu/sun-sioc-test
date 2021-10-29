@@ -1,8 +1,10 @@
 {
-	"result":
-	{
-		"billOfMaterialId": "BOM00001",
-		"criteria": "SIOC DUMMY API",
-		"eligibility": "test"
-	}
+	"result": {
+		{
+			"id": 1,
+			"billOfMaterialId": "BOM00001",
+			"criteria": "SIOC DUMMY API",
+			"eligibility": "test"
+		}
+	]
 }
