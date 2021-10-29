@@ -1,5 +1,9 @@
 {
-	"billOfMaterialId": "BOM00001",
-	"criteria": "SIOC DUMMY API",
-	"eligibility": "test"
+	results: [
+		{
+			"billOfMaterialId": "BOM00001",
+			"criteria": "SIOC DUMMY API",
+			"eligibility": "test"
+		}
+	]
 }
